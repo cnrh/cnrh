@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=conneramd&label=Profile%20views&color=781fff&style=flat" alt="conneramd" /> </p>
 
-- Owner @ [Wallet](https://walletmc.tech)
-
 <p align="left">
 </p>
 
