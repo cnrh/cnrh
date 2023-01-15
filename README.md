@@ -1,5 +1,6 @@
 <h1 align="center">Howdy 👋, I'm Conner</h1>
 <h3 align="center">Developer</h3>
+<p align="center"><a href="https://discord.com/users/150729679962243075"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/150729679962243075"></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cnrh&label=Profile%20views&color=781fff&style=flat" alt="cnrh" /> </p>
 
