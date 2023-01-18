@@ -1,4 +1,4 @@
-<h1 align="center">Howdy 👋, I'm Conner</h1>
+<h1 align="center">cnrh</h1>
 <h3 align="center">Developer</h3>
 
 <p align="center"><a href="https://discord.com/users/847284868647354388"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/847284868647354388"></a></p>
